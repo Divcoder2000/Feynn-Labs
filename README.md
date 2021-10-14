@@ -1,1 +1,2 @@
 # Feynn-Labs
+This project work covers the real-time data analysis and machine learning algorithms (KMeans Algorithm) of tea market segmentation in South Indian states with key characteristics such as production, tea/coffee export and import statistics, productivity, area under tea cultivation, top tea exporting countries and their market share that is infleunced with respect to segmentation aspects.
